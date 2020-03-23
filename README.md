@@ -1,2 +1,3 @@
-# slimewave
-Advanced Android Programming Labs
+# Advanced Android Programming
+## Lab 1
+
