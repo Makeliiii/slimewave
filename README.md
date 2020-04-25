@@ -18,4 +18,4 @@ This repository contains all the labs for the advanced android programming cours
     - [x] 3.4
 - [Lab 4](https://github.com/Makeliiii/slimewave/tree/lab4)
     - [x] 4.1
-    - [ ] 4.2
+    - [x] 4.2
